@@ -9,6 +9,6 @@ rotation_strategies = {
   'Line': (0, 0, 1.5708),
   'Paddle': (0, 0, -1.5708),
   'Roll': (0, 0, 1.5708),
-  'Root': (1.5708, 0, 0),
+  'Root': (0, 0, 0),
   'Sphere': (0, 0, 0)
 }

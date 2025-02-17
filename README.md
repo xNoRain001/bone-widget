@@ -1,1 +1,7 @@
-pip install blender_utils --target "C:\Users\xNoRain\AppData\Roaming\Blender Foundation\Blender\4.2\scripts\addons\bone-widget\libs"
+## Introduction
+
+A mini and performance blender bone widget addon
+
+## Usage
+
+[![Video Label](https://img.youtube.com/vi/eyz0mCfoSAY/0.jpg)](https://www.youtube.com/watch?v=eyz0mCfoSAY)
